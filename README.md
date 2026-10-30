@@ -1,3 +1,3 @@
-# gitlearning1
-In class activity 1
-Author Kaeden Kiffe
+# Lab
+
+A simple CSS program.
